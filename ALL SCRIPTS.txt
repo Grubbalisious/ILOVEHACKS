@@ -1,0 +1,11 @@
+if 2788229376
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grubbalisious/Dahood/main/whitelist_output%20(3).lua"))();
+
+if 6229116934
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grubbalisious/Hoopz/main/whitelist_output%20(1).lua"))();
+
+if 8204899140
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grubbalisious/FF2/main/whitelist_output%20(2).lua"))();
